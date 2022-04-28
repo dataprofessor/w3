@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: //dataprofessor.github.io/w3/sitemap.xml
